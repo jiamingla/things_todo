@@ -45,5 +45,28 @@
     "actualMinutes": 0,
     "planId": null,
     "order": 0
+  },
+  {
+    "id": "t_1782288968681_5b1",
+    "title": "列出工作大小事之前，先整理領到一個APP的更新後實際上的工作流",
+    "body": "",
+    "links": [],
+    "urgency": "medium",
+    "estimate": "30m",
+    "deadline": "today",
+    "status": "todo",
+    "done": false,
+    "source": null,
+    "pdca": {
+      "plan": "",
+      "do": "",
+      "check": "",
+      "act": ""
+    },
+    "createdAt": "2026-06-24T08:16:08.681Z",
+    "completedAt": null,
+    "dayKey": "2026-06-24",
+    "actualMinutes": 0,
+    "planId": null
   }
 ]
