@@ -30,8 +30,8 @@
     "urgency": "high",
     "estimate": "4h+",
     "deadline": "tomorrow",
-    "status": "in-progress",
-    "done": false,
+    "status": "done",
+    "done": true,
     "source": null,
     "pdca": {
       "plan": "",
@@ -40,7 +40,7 @@
       "act": ""
     },
     "createdAt": "2026-06-23T10:33:50.271Z",
-    "completedAt": null,
+    "completedAt": "2026-09-09T01:44:38.933Z",
     "dayKey": "2026-06-23",
     "actualMinutes": 0,
     "planId": null,
